@@ -1,7 +1,4 @@
-# Galactic Structure and Dynamics 
-A compilation of interesting things about the topic in the solely authors view. 
-
-### Galactic Structure
+# Galactic Structure
 
 #### Papers
 - [Detailed 3D structure of Orion A in dust with Gaia DR2](https://arxiv.org/pdf/2007.05117.pdf)
