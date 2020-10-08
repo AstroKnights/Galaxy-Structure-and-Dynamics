@@ -27,3 +27,5 @@ error_mode: strict
 aside: true
 
 feature_text: "Example text"
+
+theme: jekyll-theme-cayman
