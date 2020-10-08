@@ -25,5 +25,3 @@ A compilation of interesting things about the topic in the solely authors view.
 - [A Deep Learning-based methodology to select Young Stellar Object candidates from IR surveys](https://arxiv.org/pdf/2010.01601.pdf)
 - [Modeling the 3D Milky Way using Machine Learning with Gaia and infrared surveys](https://arxiv.org/pdf/2010.01431.pdf)
 
-
-[See more](https://astroknights.github.io/Galaxy-Structure-and-Dynamics)
