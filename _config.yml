@@ -1,0 +1,29 @@
+remote_theme: AstroKnights/alembic
+
+# File excludes
+exclude:
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+- github-pages
+
+# default markdown processor and highlighter
+markdown: kramdown
+highlighter: rouge
+error_mode: strict
+
+aside: true
+
+feature_text: "Example text"
