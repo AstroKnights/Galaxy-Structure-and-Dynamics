@@ -13,7 +13,7 @@
 - [The mass of the Milky Way out to 100 kpc using halo stars](https://arxiv.org/pdf/2010.13801.pdf)
 - [A UNIFORM CATALOG OF MOLECULAR CLOUDS IN THE MILKY WAY](http://www.astroexplorer.org/details/apj523087f15)
 - [Estimating the Galactic Mass Profile in the Presence of Incomplete Data](https://ui.adsabs.harvard.edu/abs/2015ApJ...806...54E/abstract)
-*  [Code](https://github.com/gweneadie/GME/tree/master/RScripts)
+  * [Code](https://github.com/gweneadie/GME/tree/master/RScripts)
 
 ### Open Clusters
 
