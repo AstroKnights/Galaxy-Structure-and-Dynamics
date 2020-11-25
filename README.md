@@ -14,6 +14,7 @@
 - [A UNIFORM CATALOG OF MOLECULAR CLOUDS IN THE MILKY WAY](http://www.astroexplorer.org/details/apj523087f15)
 - [Estimating the Galactic Mass Profile in the Presence of Incomplete Data](https://ui.adsabs.harvard.edu/abs/2015ApJ...806...54E/abstract)
   * [Code](https://github.com/gweneadie/GME/tree/master/RScripts)
+- [Gaia Reveals a Metal-rich, in situ Component of the Local Stellar Halo](https://iopscience.iop.org/article/10.3847/1538-4357/aa7d0c)  
 
 ### Open Clusters
 
@@ -33,3 +34,9 @@
 - [Modeling the 3D Milky Way using Machine Learning with Gaia and infrared surveys](https://arxiv.org/pdf/2010.01431.pdf)
 - [OB stars and YSO populations in the region of NGC 6334–NGC 6357 as seen with Gaia DR2](https://www.aanda.org/articles/aa/full_html/2020/10/aa37674-20/aa37674-20.html#R19)
 - [Star Formation in the Outer Galaxy (SFOG)](https://www.cfa.harvard.edu/~jhora/SFOG/)
+
+### Hypervelocity Stars
+
+- [Discovery of Two New Hypervelocity Stars from the LAMOST Spectroscopic Surveys](https://iopscience.iop.org/article/10.3847/2041-8213/aa894b/pdf)
+
+
