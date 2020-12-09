@@ -15,10 +15,16 @@
 - [Estimating the Galactic Mass Profile in the Presence of Incomplete Data](https://ui.adsabs.harvard.edu/abs/2015ApJ...806...54E/abstract)
   * [Code](https://github.com/gweneadie/GME/tree/master/RScripts)
 - [Gaia Reveals a Metal-rich, in situ Component of the Local Stellar Halo](https://iopscience.iop.org/article/10.3847/1538-4357/aa7d0c)  
+- [Photo-astrometric distances, extinctions, and astrophysical parameters for Gaia DR2 stars brighter than G = 18](https://www.aanda.org/articles/aa/abs/2019/08/aa35765-19/aa35765-19.html)
+- [Improving the open cluster census.
+I. Comparison of clustering algorithms applied to Gaia DR2 data.
+](https://arxiv.org/abs/2012.04267)
+
 
 ### Open Clusters
 
 #### References
+- [3D kinematics and age distribution of the Open Cluster population](https://arxiv.org/pdf/2012.04017.pdf)
 - [Painting a portrait of the Galactic disc with its stellar clusters](https://arxiv.org/pdf/2004.07274.pdf)
 - [Fundamental parameters for 45 open clusters with Gaia DR2, an improved extinction correction and a metallicity gradient prior](https://arxiv.org/pdf/2009.11834.pdf)
 - [Discovery and astrophysical properties of Galactic open clusters in dense stellar fields using Gaia DR2](https://arxiv.org/pdf/2006.05611.pdf)
@@ -27,6 +33,8 @@
 - [Clusters and mirages: cataloguing stellar aggregates in the Milky Way](https://arxiv.org/pdf/1911.07075.pdf)
 - [Exploring open cluster properties with Gaia and LAMOST](https://arxiv.org/pdf/2006.06929.pdf)
 - [Extended stellar systems in the solar neighborhood V. Discovery of coronae of nearby star clusters](https://arxiv.org/pdf/2010.06591.pdf)
+- [Discovery of Tidal Tails in Disrupting Open Clusters: Coma Berenices and a Neighbor
+Stellar Group](https://iopscience.iop.org/article/10.3847/1538-4357/ab13b0/pdf)
 ### YSOs
 
 #### References
