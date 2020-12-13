@@ -45,6 +45,7 @@ tracing star formation across cosmic time](https://arxiv.org/pdf/2005.06188.pdf)
 - [Modeling the 3D Milky Way using Machine Learning with Gaia and infrared surveys](https://arxiv.org/pdf/2010.01431.pdf)
 - [OB stars and YSO populations in the region of NGC 6334–NGC 6357 as seen with Gaia DR2](https://www.aanda.org/articles/aa/full_html/2020/10/aa37674-20/aa37674-20.html#R19)
 - [Star Formation in the Outer Galaxy (SFOG)](https://www.cfa.harvard.edu/~jhora/SFOG/)
+- [A SPITZER SURVEY OF YOUNG STELLAR CLUSTERS WITHIN ONE KILOPARSEC OF THE SUN: CLUSTER CORE EXTRACTION AND BASIC STRUCTURAL ANALYSIS](https://iopscience.iop.org/article/10.1088/0067-0049/184/1/18#apjs300673s4)
 
 ### Hypervelocity Stars
 
