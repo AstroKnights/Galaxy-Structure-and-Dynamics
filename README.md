@@ -35,6 +35,8 @@ I. Comparison of clustering algorithms applied to Gaia DR2 data.
 - [Extended stellar systems in the solar neighborhood V. Discovery of coronae of nearby star clusters](https://arxiv.org/pdf/2010.06591.pdf)
 - [Discovery of Tidal Tails in Disrupting Open Clusters: Coma Berenices and a Neighbor
 Stellar Group](https://iopscience.iop.org/article/10.3847/1538-4357/ab13b0/pdf)
+- [Star clusters near and far;
+tracing star formation across cosmic time](https://arxiv.org/pdf/2005.06188.pdf)
 ### YSOs
 
 #### References
