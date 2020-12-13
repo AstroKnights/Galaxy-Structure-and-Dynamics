@@ -19,6 +19,7 @@
 - [Improving the open cluster census.
 I. Comparison of clustering algorithms applied to Gaia DR2 data.
 ](https://arxiv.org/abs/2012.04267)
+- [The SEDIGISM survey: molecular clouds in the inner Galaxy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.500.3027D/abstract)
 
 
 ### Open Clusters
